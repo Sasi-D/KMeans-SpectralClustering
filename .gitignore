@@ -1,0 +1,3 @@
+# excluding statement and other trivial files
+*.pdf
+*.html
